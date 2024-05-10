@@ -1,10 +1,5 @@
 ### Hi there 👋
-public class Faddey
-{
-  private int age = 18;
-  public String[] traits = new String[] { "kinda smart", not that tall", "geek" };
-  public String[] hobbies = new String[] { "Coding!", "Competitive Gaming", "Weight Lifting", "Refereeing", "Sleeping" };
-}
+
 <!--
 **LS10WorstCoder/LS10WorstCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
