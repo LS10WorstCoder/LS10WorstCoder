@@ -1,4 +1,3 @@
-###
 <h1 align="left">Hey! 👋 My name is Ted</h1>
 
 ###
