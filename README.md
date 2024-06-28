@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- My goals are to get my hands on a MatLab license to dive a little deeper into ML for robotics systems for (Automated PID)<br>- Learn and read more about current Text-to-video gen AI developments<br>- Self teach myself learning methods and model types for a better understanding of AI applications<br><br>And what I'm most excited for is to start at university this fall!!!</p>
+<p align="left">- My goals are to learn python and get a lot of experience in using API's in my projects<br>- Learn and read more about current Text-to-video gen AI developments<br>- Self teach myself learning methods and model types for a better understanding of AI applications<br><br>And what I'm most excited for is to start at university this fall!!!</p>
 
 ###
 
